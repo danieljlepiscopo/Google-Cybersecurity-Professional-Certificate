@@ -1,2 +1,2 @@
 # Google-Cybersecurity-Professional-Certificate
-All assignments, demos, and cheat sheets from the 8 courses in the "Google Cybersecurity Professional Certificate" on Coursera.
+All portfolio assignments related to the 8 courses in the Google Cybersecurity Professional Certificate on Coursera.
